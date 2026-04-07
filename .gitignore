@@ -1,0 +1,15 @@
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Markdown files
+*.md
+
+# Data folder
+data/
+data/**/
+
+# Cache folder
+cache/
+cache/**/
